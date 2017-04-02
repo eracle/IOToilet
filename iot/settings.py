@@ -25,7 +25,7 @@ SECRET_KEY = 'nt8jh$fh7bp@qb_lss6&#qdtz$v&d5ych7s(e+74j_5@^xl3w#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['iotoilet-dev.eu-central-1.elasticbeanstalk.com']
 
 
 # Application definition
